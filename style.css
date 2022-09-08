@@ -271,7 +271,7 @@ main::-webkit-scrollbar{
     height: 250px;
     object-fit: cover;
     object-position: center;
-    border-radius: 5px;
+     border-radius: 50%;
   }
 
   .herosectionDetails > h1{
