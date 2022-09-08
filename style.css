@@ -267,8 +267,8 @@ main::-webkit-scrollbar{
 @media only screen and (max-width: 460px){
 
   .profileImage{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     object-position: center;
      border-radius: 50%;
